@@ -1,5 +1,5 @@
-# Due to spread of covid-19,I created theis app to help in corona analytics through visualization.
-### The circles on the mar represent cases in a given country
+# Due to spread of covid-19,I created this app to help in corona analytics through visualization.
+### The circles on the map represent cases in a given country
 [Click here to view the live app](https://covid-19-tracker-dun-nu.vercel.app/)
 
 
