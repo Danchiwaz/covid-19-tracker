@@ -1,3 +1,8 @@
+# Due to spread of covid-19,I created theis app to help in corona analytics through visualization.
+### The circles on the mar represent cases in a given country
+[Click here to view the live app](https://covid-19-tracker-dun-nu.vercel.app/)
+
+
 # React COVID Tracker
 
 ### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
